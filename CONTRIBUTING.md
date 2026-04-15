@@ -1,20 +1,30 @@
 # Contributing
 
-This repository is the in class task step in OSS clas [ 2026.04.15 ].
+Thank you for your interest in contributing.
 
-## Before you start
+## How to contribute
 
-1. Read **README.md** (setup, scripts, architecture).
-2. Review the project
-3. Find bugs/new features
-4. Start contributing
+You can contribute by:
+- reporting bugs
+- suggesting improvements
+- updating documentation
+- submitting code changes
 
-## Issues
+## Before contributing
 
-* Try to create an issue with all details of the bug/feature you have found/want to contribute
-* Describe **what** will be fixed, changed and **why**; link PR if applicable after PR is created.
+Please:
+- read the README
+- understand the project purpose
+- keep changes simple and relevant
 
-## Pull requests
+## Pull request process
 
-* One logical change per PR when possible.
-* Describe **what** changed and **why**; link issues if applicable.
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit your work
+5. Submit a pull request
+
+## Notes
+
+This repository is currently a small classroom practice project, so contributions should stay simple and clear.
