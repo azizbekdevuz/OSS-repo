@@ -24,6 +24,7 @@ The purpose of this repository is to practice:
 ## Requirements
 
 - Python 3.x
+- [Official docs] (https://docs.python.org/)
 
 ## How to run
 
