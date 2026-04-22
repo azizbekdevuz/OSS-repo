@@ -8,7 +8,7 @@ This repository is a minimal educational exercise for practicing basic Git and G
 
 ## Project files
 
-- `main.py` — prints `Hello world`
+- `main.py` — comprises of the source code for assignment 5
 - `test.py` — prints a simple message
 - `test_feature.py` — prints a simple message related to feature branch practice
 
